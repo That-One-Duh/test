@@ -1,4 +1,4 @@
-## Commands and their usage
+## Command Reference and Usage Guide
 ```bash
 # Adding a new task
 task-cli add "Buy groceries"
